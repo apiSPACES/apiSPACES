@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apiSPACES
 - 👀 I’m interested in ... gaming
-- 🌱 I’m currently learning ... coding
+- 🌱 I’m currently learning ... math
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ...email: api.space@gmail.com
 
